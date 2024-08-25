@@ -1,1 +1,1 @@
-Check attached the Notebook to see the data and related calculations.
+Check the attached Notebook to see the data and related calculations.
